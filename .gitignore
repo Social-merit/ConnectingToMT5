@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.bak
+build/
+
+
+*.log
+node_modules/
+
+key.txt
